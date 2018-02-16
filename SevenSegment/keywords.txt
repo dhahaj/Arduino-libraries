@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For SevenSegment
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#SevenSegment	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#update		 KEYWORD2
+#interval	 KEYWORD2
+#read		 KEYWORD2
+#write		 KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+SevenSegment KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+COM_CATHODE	LITERAL1
+COM_ANODE	LITERAL1

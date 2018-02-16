@@ -1,0 +1,99 @@
+#######################################
+# Syntax Coloring Map For Luni Library for Arduino
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+DeviceDriver        KEYWORD1    DeviceDriver
+DeviceTable         KEYWORD1    DeviceTable
+LogicalUnitInfo     KEYWORD1    LogicalUnitInfo
+I2CPort             KEYWORD1    I2CPort
+Port                KEYWORD1    Port
+
+ClientReporter      KEYWORD1    ClientReporter
+ConsoleReporter     KEYWORD1    ConsoleReporter
+DeviceDriverTest    KEYWORD1    DeviceDriverTest
+Logger              KEYWORD1    Logger
+LogLevel            KEYWORD1    LogLevel
+TestManager         KEYWORD1    TestManager
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+open                KEYWORD2
+read                KEYWORD2
+write               KEYWORD2
+close               KEYWORD2
+processTimerEvent   KEYWORD2
+reset               KEYWORD2
+checkForTimerEvents KEYWORD2
+
+reportOpen          KEYWORD2
+reportRead          KEYWORD2
+reportWrite         KEYWORD2
+reportClose         KEYWORD2
+reportString        KEYWORD2
+reportError         KEYWORD2
+
+dispatchTimers      KEYWORD2
+
+write8              KEYWORD2
+write8LE            KEYWORD2
+write8BE            KEYWORD2
+write16LE           KEYWORD2
+write16BE           KEYWORD2
+write32LE           KEYWORD2
+write32BE           KEYWORD2
+
+read8               KEYWORD2
+read8LE             KEYWORD2
+read8BE             KEYWORD2
+read16LE            KEYWORD2
+read16BE            KEYWORD2
+read32LE            KEYWORD2
+read32BE            KEYWORD2
+
+enable              KEYWORD2
+disable             KEYWORD2
+isEnabled           KEYWORD2
+
+from8LEToHost       KEYWORD2
+from16LEToHost      KEYWORD2
+from32LEToHost      KEYWORD2
+fromHostTo8LE       KEYWORD2
+fromHostTo16LE      KEYWORD2
+fromHostTo32LE      KEYWORD2
+
+from8BEToHost       KEYWORD2
+from16BEToHost      KEYWORD2
+from32BEToHost      KEYWORD2
+fromHostTo8BE       KEYWORD2
+fromHostTo16BE      KEYWORD2
+fromHostTo32BE      KEYWORD2
+
+makeHandle          KEYWORD2
+getUnitNumber       KEYWORD2
+getDeviceNumber     KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+QUERY_BUFFER_SIZE           LITERAL1
+RESPONSE_BUFFER_SIZE        LITERAL1
+
+MINIMUM_UPDATE_INTERVAL     LITERAL1
+DEFAULT_UPDATE_INTERVAL     LITERAL1
+
+MINIMUM_REPORT_INTERVAL     LITERAL1
+DEFAULT_REPORT_INTERVAL     LITERAL1
+I2C_MIN_7BIT_ADDRESS        LITERAL1
+I2C_MAX_7BIT_ADDRESS        LITERAL1
+
+MAX_DPB_LENGTH              LITERAL1
+

@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For Improved Printing
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PPrint	 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+print	 KEYWORD2
+println	 KEYWORD2
+printNum	 KEYWORD2
+printf	 KEYWORD2
+run	 KEYWORD2
+printArray	 KEYWORD2
+available	 KEYWORD2
+read	 KEYWORD2
+stop	 KEYWORD2
+write	 KEYWORD2
+tab	 KEYWORD2
+line	 KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BAUD LITERAL1
+
